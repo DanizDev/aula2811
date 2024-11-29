@@ -1,13 +1,13 @@
-var numero1 = parseFloat(prompt("Digite o primeiro numero: "));
-var numero2 = parseFloat(prompt("Digite o segundo numero: "));
+var numeroum = parseFloat(prompt("Digite o primeiro numero: "));
+var numerodois = parseFloat(prompt("Digite o segundo numero: "));
 
-if(numero1 > numero2){
+if(numeroum > numerodois){
 
-    alert("O maior numero é : " + numero1);
+    alert("O maior numero é : " + numeroum);
 
 }else{
 
-    alert("O maior numero é : " + numero2);
+    alert("O maior numero é : " + numerodois);
 
 }
 
